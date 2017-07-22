@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26621.2
+VisualStudioVersion = 15.0.26711.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSPing", "AWSPing\AWSPing.csproj", "{570C959A-7FF7-4980-8A7E-797D44464FF4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzurePing", "AzurePing\AzurePing.csproj", "{3D4788C7-03AE-4B5E-B355-CFE1BB2E83FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{570C959A-7FF7-4980-8A7E-797D44464FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{570C959A-7FF7-4980-8A7E-797D44464FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{570C959A-7FF7-4980-8A7E-797D44464FF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D4788C7-03AE-4B5E-B355-CFE1BB2E83FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D4788C7-03AE-4B5E-B355-CFE1BB2E83FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D4788C7-03AE-4B5E-B355-CFE1BB2E83FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D4788C7-03AE-4B5E-B355-CFE1BB2E83FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
